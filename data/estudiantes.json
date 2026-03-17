@@ -1,0 +1,22 @@
+{
+    "estudiantes": [
+        {
+            "nombre": "kevin esgurra cardona",
+            "edad": 24,
+            "nota1": 4.0,
+            "nota2": 3.5,
+            "nota3": 2.0,
+            "promedio": 3.17,
+            "estado": "En recuperación"
+        },
+        {
+            "nombre": "juan josé paredes",
+            "edad": 19,
+            "nota1": 4.0,
+            "nota2": 4.0,
+            "nota3": 4.0,
+            "promedio": 4.0,
+            "estado": "Aprobado"
+        }
+    ]
+}

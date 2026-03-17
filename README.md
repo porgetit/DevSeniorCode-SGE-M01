@@ -1,6 +1,12 @@
 # Sistema de Gestión de Estudiantes 🎓
 
-Pequeño sistema de gestión académica desarrollado en **Python puro**, sin librerías externas, que corre completamente desde la terminal.
+Pequeño sistema de gestión académica desarrollado en **Python puro**, sin librerías externas, ejecutado completamente desde la terminal.
+
+---
+
+## Autor
+
+- [Kevin Esgurra Cardona](mailto:kevin.esguerra@utp.edu.co)
 
 ---
 
@@ -10,7 +16,7 @@ Una universidad necesita un programa que permita:
 
 - Registrar estudiantes con sus datos básicos y tres notas.
 - Calcular automáticamente el promedio y el estado académico.
-- Persistir los datos entre sesiones.
+- Persistir los datos entre sesiones. (`requisito personal`)
 - Mostrar un resumen estadístico del grupo al finalizar.
 
 ---
